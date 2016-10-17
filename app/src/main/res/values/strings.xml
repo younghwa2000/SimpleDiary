@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SimpleDiary</string>
+    <string name="str_but">새로 저장</string>
 </resources>
