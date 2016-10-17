@@ -16,6 +16,7 @@
         android:layout_height="wrap_content"
         android:calendarViewShown="false"
         />
+
     <EditText
         android:id="@+id/edit_content"
         android:background="#D1B2FF"
@@ -23,6 +24,7 @@
         android:layout_height="wrap_content"
         android:lines="8"
         />
+
     <Button
         android:id="@+id/but_save"
         android:layout_width="match_parent"
@@ -30,4 +32,5 @@
         android:text="@string/str_but"
         android:enabled="false"
         />
+
 </LinearLayout>
